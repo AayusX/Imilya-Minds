@@ -1,0 +1,8 @@
+/home/aayusx/mypro/cpp-search-app/build/CMakeFiles/CPPSearchApp.dir
+/home/aayusx/mypro/cpp-search-app/build/CMakeFiles/edit_cache.dir
+/home/aayusx/mypro/cpp-search-app/build/CMakeFiles/rebuild_cache.dir
+/home/aayusx/mypro/cpp-search-app/build/CMakeFiles/list_install_components.dir
+/home/aayusx/mypro/cpp-search-app/build/CMakeFiles/install.dir
+/home/aayusx/mypro/cpp-search-app/build/CMakeFiles/install/local.dir
+/home/aayusx/mypro/cpp-search-app/build/CMakeFiles/install/strip.dir
+/home/aayusx/mypro/cpp-search-app/build/CMakeFiles/CPPSearchApp_autogen.dir
